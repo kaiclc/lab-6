@@ -37,9 +37,7 @@ def main():
             stored = encode(original_password)
             print("Your password has been encoded and stored!")
         elif selection == "2":
-            # work in progress!
-            print(
-                f"The encoded password is {stored}, and the original password is {decode(stored)}'")
+            print(f"The encoded password is {stored}, and the original password is {decode(stored)}.")
         elif selection == "3":
             break
 
