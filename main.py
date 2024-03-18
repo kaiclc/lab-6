@@ -1,3 +1,6 @@
+# Marvin Gao
+# UF ID: 97640683
+
 def encode(num_string):
     encoded_string = ""
     for digit in num_string:
